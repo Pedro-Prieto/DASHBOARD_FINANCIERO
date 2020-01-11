@@ -4,5 +4,3 @@ https://pedro-prieto.github.io/DASHBOARD_FINANCIERO/
 
 
 WALL STREET: #0C2324, #353D47, #84888F, #FFFFFF, #8A1C23.
-
-DRAWBOX("RED")
